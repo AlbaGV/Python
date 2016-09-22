@@ -1,8 +1,5 @@
-#Este programa pide dos numeros y calcula la suma
-
 num1=int(raw_input("Dime un numero: "))
 num2=int(raw_input("Dime otro numero: "))
-
 suma=num1+num2
 
-print "La suma es:",suma
+print "La suma es:", suma
